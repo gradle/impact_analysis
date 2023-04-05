@@ -1,6 +1,6 @@
 # byob
 
-## Script Downloads
+## Step 1: Get the Impact Analysis scripts
 
 ### Gradle
 ```bash
@@ -12,7 +12,7 @@ curl -s -L -O https://github.com/gradle/gradle-enterprise-build-validation-scrip
 curl -s -L -O https://github.com/gradle/gradle-enterprise-build-validation-scripts/releases/download/v2.3.2/gradle-enterprise-maven-build-validation-2.3.2.zip && unzip -q -o gradle-enterprise-maven-build-validation-2.3.2.zip
 ```
 
-## Invoke scripts
+## Step 2: Invoke the scripts with your project and the server provided by your Gradle host
 
 ### Gradle
 ```bash
