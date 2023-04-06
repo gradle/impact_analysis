@@ -28,7 +28,6 @@ NOTE:
 <br>
 <br>
 The GE server used for these experiments is hosted by Gradle. It will be up until Apr 14, 2022, and then decommissioned. If you would want to continue with your own hosted instance, please reach out to us by using the following contact form:
-<br>
-,br.
+<br><br>
 https://gradle.com/enterprise/contact/
 <br>
