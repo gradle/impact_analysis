@@ -2,6 +2,7 @@
 <br>
 Be sure to make the correct selections for Gradle or Maven below
 <br>
+<br>
 ## Step 1: Get the Impact Analysis scripts
 
 ### Gradle
