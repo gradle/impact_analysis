@@ -1,6 +1,6 @@
 # Instructions for running the Impact Analysis
 <br>
-Be sure to make the correct selections for Gradle or Maven below
+Note: Be sure to make the correct selections for Gradle or Maven below
 <br>
 <br>
 
@@ -15,6 +15,7 @@ curl -s -L -O https://github.com/gradle/gradle-enterprise-build-validation-scrip
 ```bash 
 curl -s -L -O https://github.com/gradle/gradle-enterprise-build-validation-scripts/releases/download/v2.3.5/gradle-enterprise-maven-build-validation-2.3.5.zip && unzip -q -o gradle-enterprise-maven-build-validation-2.3.5.zip
 ```
+<br>
 
 ## Step 2: Invoke the scripts with your project and the server provided by your Gradle host
 
