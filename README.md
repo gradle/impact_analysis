@@ -4,7 +4,7 @@ Note: Be sure to make the correct selections for Gradle or Maven below
 <br>
 <br>
 
-## Step 1: Get the Impact Analysis scripts
+## Step 1: Get the build validation scripts
 
 ### Gradle
 ```bash
@@ -17,7 +17,7 @@ curl -s -L -O https://github.com/gradle/gradle-enterprise-build-validation-scrip
 ```
 <br>
 
-## Step 2: Invoke the scripts with your project and the server provided by your Gradle host
+## Step 2: Invoke the scripts with your project and the server provided by your Gradle team
 
 ### Gradle Example
 ```bash
