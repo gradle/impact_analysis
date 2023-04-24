@@ -1,4 +1,4 @@
-# byob
+# Instructions - be sure to make the correct selections for Gradle or Maven below
 
 ## Step 1: Get the Impact Analysis scripts
 
