@@ -1,5 +1,7 @@
-# Instructions - be sure to make the correct selections for Gradle or Maven below
-
+# Instructions for running the Impact Analysis
+<br>
+Be sure to make the correct selections for Gradle or Maven below
+<br>
 ## Step 1: Get the Impact Analysis scripts
 
 ### Gradle
@@ -24,11 +26,5 @@ curl -s -L -O https://github.com/gradle/gradle-enterprise-build-validation-scrip
 ./02-validate-local-build-caching-different-locations.sh -r <https://github.com/path/to/your/project OR file:///path/to/your/project> -g install -e -s https://byob-devnexus-1.gradle-enterprise.cloud 
 ```
 <br>
-NOTE: 
-<br>
-<br>
-The GE server used for these experiments is hosted by Gradle. It will be up until Apr 14, 2022, and then decommissioned. If you would want to continue with your own hosted instance, please reach out to us by using the following contact form:
-<br>
-<br>
-https://gradle.com/enterprise/contact/
+NOTE: If you have any questions, please contact your Gradle team or use https://gradle.com/enterprise/contact/
 <br>
