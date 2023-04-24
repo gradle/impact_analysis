@@ -19,12 +19,12 @@ curl -s -L -O https://github.com/gradle/gradle-enterprise-build-validation-scrip
 
 ## Step 2: Invoke the scripts with your project and the server provided by your Gradle host
 
-### Gradle
+### Gradle Example
 ```bash
 ./03-validate-local-build-caching-different-locations.sh -r <https://github.com/path/to/your/project OR file:///path/to/your/project> -t build -e -s https://<hostname>.gradle-enterprise.cloud
 ```
 
-### Maven
+### Maven Example
 ```bash
 ./02-validate-local-build-caching-different-locations.sh -r <https://github.com/path/to/your/project OR file:///path/to/your/project> -g install -e -s https://byob-devnexus-1.gradle-enterprise.cloud 
 ```
