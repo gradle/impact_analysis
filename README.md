@@ -9,7 +9,7 @@ curl -s -L -O https://github.com/gradle/gradle-enterprise-build-validation-scrip
 
 ### Maven
 ```bash 
-curl -s -L -O https://github.com/gradle/gradle-enterprise-build-validation-scripts/releases/download/v2.3.5/gradle-enterprise-maven-build-validation-2.3.5.zip && unzip -q -o gradle-enterprise-maven-build-validation-2.5.2.zip
+curl -s -L -O https://github.com/gradle/gradle-enterprise-build-validation-scripts/releases/download/v2.3.5/gradle-enterprise-maven-build-validation-2.3.5.zip && unzip -q -o gradle-enterprise-maven-build-validation-2.3.5.zip
 ```
 
 ## Step 2: Invoke the scripts with your project and the server provided by your Gradle host
