@@ -32,6 +32,7 @@ curl -s -L -O https://github.com/gradle/gradle-enterprise-build-validation-scrip
 ./02-validate-local-build-caching-different-locations.sh -r <https://github.com/path/to/your/project OR file:///path/to/your/project> -g install -e -s https://byob-devnexus-1.gradle-enterprise.cloud 
 ```
 <br>
+
 # If you are using the tool without a full installation of Gradle Enterprise, do the following steps:
 
 ## Step 1: Get the build validation scripts from your Gradle sales team
