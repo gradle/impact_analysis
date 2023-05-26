@@ -6,6 +6,7 @@ We'll work quickly to get you the information you need to <br>
 &nbsp;&nbsp;&nbsp;   - decide which projects to focus your build optimization efforts on, and <br>
 &nbsp;&nbsp;&nbsp;   - build a business case for Gradle Enterprise using your real data.
 <br>
+Please accept the license agreement to get started
 <br>
 Note: Be sure to make the correct selections for Gradle or Maven below
 <br>
