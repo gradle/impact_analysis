@@ -5,6 +5,7 @@ Welcome to the Gradle Enterprise Impact Analysis! This tool provides a streamlin
 Note: Be sure to make the correct selections for Gradle or Maven below
 
 <br>
+
 # If you have a full installation of Gradle Enterprise, do the following steps:
 
 ## Step 1: Get the build validation scripts
