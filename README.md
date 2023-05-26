@@ -1,6 +1,10 @@
 # Gradle Enterprise Impact Analysis
 <br>
-Welcome to the Gradle Enterprise Impact Analysis! This tool provides a streamlined method for understanding your project's build times, and build performance optimization potential. We can also use this tool to demo Gradle Enterprise to you with your own data, showing how Gradle Enterprise can help you improve build failure troubleshooting and build reliability. We'll work quickly to get you the information you need to 1) decide which projects to focus your build optimization efforts on and 2) build a business case for Gradle Enterprise using your real data.
+Welcome to the Gradle Enterprise Impact Analysis! This tool provides a streamlined method for understanding your project's build times, and build performance optimization potential. You can also use this tool to see Gradle Enterprise in action with your own data, showing how Gradle Enterprise can help you improve build failure troubleshooting and build reliability. 
+<br>
+We'll work quickly to get you the information you need to 
+    1) decide which projects to focus your build optimization efforts on, and
+    2) build a business case for Gradle Enterprise using your real data.
 <br>
 <br>
 Note: Be sure to make the correct selections for Gradle or Maven below
