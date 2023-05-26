@@ -7,11 +7,12 @@ Note: Be sure to make the correct selections for Gradle or Maven below
 <br>
 
 <br>
-## Note: If you have a full installation of Gradle Enterprise, do the following steps:
+
+### If you have a full installation of Gradle Enterprise, do the following steps:
 
 ## Step 1: Get the build validation scripts
 
-### Gradle
+## Gradle
 ```bash
 curl -s -L -O https://github.com/gradle/gradle-enterprise-build-validation-scripts/releases/download/v2.3.5/gradle-enterprise-gradle-build-validation-2.3.5.zip && unzip -q -o gradle-enterprise-gradle-build-validation-2.3.5.zip
 ```
@@ -33,7 +34,7 @@ curl -s -L -O https://github.com/gradle/gradle-enterprise-build-validation-scrip
 ./02-validate-local-build-caching-different-locations.sh -r <https://github.com/path/to/your/project OR file:///path/to/your/project> -g install -e -s https://byob-devnexus-1.gradle-enterprise.cloud 
 ```
 
-## Note: If you are using the tool without a full installation of Gradle Enterprise, do the following steps:
+### If you are using the tool without a full installation of Gradle Enterprise, do the following steps:
 
 ## Step 1: Get the build validation scripts from your Gradle sales team
 
